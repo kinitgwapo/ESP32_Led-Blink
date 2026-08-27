@@ -2,11 +2,8 @@
 An ESP32 Program designed for blinking an led continuously on an interval of 1 second.
 
 Name: Restauro, Kenneth O.
-
 Year/Section: 3rd-Year/B186
-
 Subject: BCA152
-
 Date: 08/25/2026
 
 Experiment: Installing and Using VS Code, Wokwi, and PlatformIO with ESP32 DevKit V1
