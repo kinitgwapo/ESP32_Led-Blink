@@ -11,7 +11,7 @@ Date: 08/25/2026
 
 Experiment: Installing and Using VS Code, PlatformIO, and Wokwi with ESP32 DOIT DevKit V1
 
-Introduction
+**Introduction**
 
 The purpose of this experiment was to install and set up VS Code, PlatformIO, and Wokwi for developing and simulating an ESP32 project. The Arduino framework was used for programming, and the ESP32 DOIT DevKit V1 was selected as the target board.
 
