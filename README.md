@@ -19,7 +19,6 @@ The project involved creating a simple LED blinking program that turns the LED o
 
 <br>
 <br>
-<br>
 
 ### Materials
 
@@ -40,7 +39,6 @@ The project involved creating a simple LED blinking program that turns the LED o
 
 <br>
 <br>
-<br>
 
 ### Procedures
 
@@ -56,7 +54,6 @@ A simple program was then written to make the LED turn on and off every one seco
 
 <br>
 <br>
-<br>
 
 ### Results and Discussion
 
@@ -64,7 +61,6 @@ The project was successfully created and tested using the ESP32 DOIT DevKit V1 c
 
 The experiment demonstrated the use of VS Code as the IDE, PlatformIO as the development platform and project manager, the Arduino framework as the programming framework, and Wokwi as the GUI and simulator.
 
-<br>
 <br>
 <br>
 
