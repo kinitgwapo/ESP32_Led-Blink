@@ -9,9 +9,9 @@ Subject: BCA152
 
 Date: 08/25/2026
 
-# Experiment: Installing and Using VS Code, PlatformIO, and Wokwi with ESP32 DOIT DevKit V1
+## Experiment: Installing and Using VS Code, PlatformIO, and Wokwi with ESP32 DOIT DevKit V1
 
-## Introduction
+### Introduction
 
 The purpose of this experiment was to install and set up VS Code, PlatformIO, and Wokwi for developing and simulating an ESP32 project. The Arduino framework was used for programming, and the ESP32 DOIT DevKit V1 was selected as the target board.
 
@@ -20,12 +20,10 @@ The project involved creating a simple LED blinking program that turns the LED o
 <br>
 <br>
 <br>
-<br>
-<br>
 
-## Materials
+### Materials
 
-### Software
+#### Software
 
 - Computer
 - Visual Studio Code (VS Code)
@@ -33,7 +31,7 @@ The project involved creating a simple LED blinking program that turns the LED o
 - Arduino Framework
 - Wokwi
 
-### Simulated Hardware
+#### Simulated Hardware
 
 - ESP32 DOIT DevKit V1
 - LED
@@ -43,10 +41,8 @@ The project involved creating a simple LED blinking program that turns the LED o
 <br>
 <br>
 <br>
-<br>
-<br>
 
-## Procedures
+### Procedures
 
 First, Visual Studio Code (VS Code) was installed and used as the Integrated Development Environment (IDE) for writing and editing the program code.
 
@@ -61,10 +57,8 @@ A simple program was then written to make the LED turn on and off every one seco
 <br>
 <br>
 <br>
-<br>
-<br>
 
-## Results and Discussion
+### Results and Discussion
 
 The project was successfully created and tested using the ESP32 DOIT DevKit V1 configuration. During the Wokwi simulation, the LED blinked at an interval of one second, showing that the program and circuit were working correctly.
 
@@ -73,10 +67,8 @@ The experiment demonstrated the use of VS Code as the IDE, PlatformIO as the dev
 <br>
 <br>
 <br>
-<br>
-<br>
 
-## Conclusion
+### Conclusion
 
 In this experiment, I learned how to use VS Code, PlatformIO, the Arduino framework, and Wokwi to develop and simulate an ESP32 project. I also learned how to create and test a simple LED blinking program using the ESP32 DOIT DevKit V1.
 
