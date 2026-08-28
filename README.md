@@ -18,7 +18,6 @@ The purpose of this experiment was to install and set up VS Code, PlatformIO, an
 The project involved creating a simple LED blinking program that turns the LED on and off every one second. The program and circuit were tested through simulation without the need for actual hardware.
 
 <br>
-<br>
 
 ### Materials
 
@@ -38,7 +37,6 @@ The project involved creating a simple LED blinking program that turns the LED o
 - Jumper wires
 
 <br>
-<br>
 
 ### Procedures
 
@@ -53,7 +51,6 @@ The Wokwi extension was also installed and used as the graphical user interface 
 A simple program was then written to make the LED turn on and off every one second. The program and circuit were compiled and tested through the Wokwi simulation.
 
 <br>
-<br>
 
 ### Results and Discussion
 
@@ -61,7 +58,6 @@ The project was successfully created and tested using the ESP32 DOIT DevKit V1 c
 
 The experiment demonstrated the use of VS Code as the IDE, PlatformIO as the development platform and project manager, the Arduino framework as the programming framework, and Wokwi as the GUI and simulator.
 
-<br>
 <br>
 
 ### Conclusion
