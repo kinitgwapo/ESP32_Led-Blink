@@ -9,25 +9,65 @@ Subject: BCA152
 
 Date: 08/25/2026
 
-Experiment: Installing and Using VS Code, Wokwi, and PlatformIO with ESP32 DevKit V1
+Experiment: Installing and Using VS Code, PlatformIO, and Wokwi with ESP32 DOIT DevKit V1
 
-INTRODUCTION:
-The purpose of this experiment was to install and set up VS Code, Wokwi, and PlatformIO. We used PlatformIO instead of the Arduino IDE to program the ESP32 DevKit V1.
 
-MATERIALS:
+
+
+
+INTRODUCTION
+The purpose of this experiment was to install and set up VS Code, PlatformIO, and Wokwi for developing and simulating an ESP32 project. The Arduino framework was used for programming, and the ESP32 DOIT DevKit V1 was selected as the target board.
+
+The project involved creating a simple LED blinking program that turns the LED on and off every one second. The program and circuit were tested through simulation without the need for actual hardware.
+
+
+
+
+
+MATERIALS
+
+Software
 - Computer
 - Visual Studio Code (VS Code)
-- PlatformIO extension
-- Wokwi simulator
-- ESP32 DevKit V1
+- PlatformIO
+- Arduino Framework
+- Wokwi
+
+Simulated Hardware
+- ESP32 DOIT DevKit V1
 - LED
-- Resistor and jumper wires
+- Resistor
+- Jumper wires
 
-PROCEDURES:
-First, VS Code was installed. Then, the PlatformIO and Wokwi extensions were installed and configured. An ESP32 DevKit V1 project was created. A program was written to make an LED turn on and off every 1 second.
 
-RESULT & DISCUSSION:
-The program was successfully run using the ESP32 DevKit V1. The LED blinked at an interval of 1 second, showing that the program and setup were working correctly.
 
-CONCLUSION:
-In this experiment, I learned how to use VS Code, Wokwi, and PlatformIO for ESP32 programming. I also learned how to write and run a simple program that makes an LED blink every 1 second.
+
+
+PROCEDURES
+First, Visual Studio Code (VS Code) was installed and used as the Integrated Development Environment (IDE) for writing and editing the program code.
+
+The PlatformIO extension was then installed in VS Code. PlatformIO was used as the development platform and project manager for creating, configuring, compiling, and managing the ESP32 project.
+
+When creating the project, the ESP32 DOIT DevKit V1 was selected as the target development board, and the Arduino framework was manually selected as the programming framework. The Arduino framework provided the basic functions and structure needed to write the program for the ESP32.
+
+The Wokwi extension was also installed and used as the graphical user interface (GUI) and simulator for the project. It was used to create a virtual circuit containing the ESP32 DOIT DevKit V1, LED, resistor, and jumper wires. This allowed the circuit and program to be tested without using actual hardware.
+
+A simple program was then written to make the LED turn on and off every one second. The program and circuit were compiled and tested through the Wokwi simulation.
+
+
+
+
+
+RESULTS AND DISCUSSION
+The project was successfully created and tested using the ESP32 DOIT DevKit V1 configuration. During the Wokwi simulation, the LED blinked at an interval of one second, showing that the program and circuit were working correctly.
+
+The experiment demonstrated the use of VS Code as the IDE, PlatformIO as the development platform and project manager, the Arduino framework as the programming framework, and Wokwi as the GUI and simulator.
+
+
+
+
+
+CONCLUSION
+In this experiment, I learned how to use VS Code, PlatformIO, the Arduino framework, and Wokwi to develop and simulate an ESP32 project. I also learned how to create and test a simple LED blinking program using the ESP32 DOIT DevKit V1.
+
+The successful simulation showed that the program worked correctly and that an ESP32 project can be developed and tested without the need for actual hardware.
